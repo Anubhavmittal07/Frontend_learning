@@ -1,5 +1,5 @@
 
-//create a h1 element using js
+//create a h1 element using jvascript
 
 const ele1 = document.createElement('h1')
 ele1.textContent = "Hello Anubhav Mittal"
